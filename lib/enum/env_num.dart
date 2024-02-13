@@ -1,0 +1,1 @@
+enum EnvEnum { dev, hml, prod }
